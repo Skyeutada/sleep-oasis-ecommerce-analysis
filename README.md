@@ -19,12 +19,6 @@ Applied full-funnel analytics across **Traffic Acquisition**, **Conversion Rates
 - Near-zero retention → Pilot email flows and loyalty tactics.
 - Singapore: High traffic, zero sales → Test geo-targeted campaigns.
 
-## Visualizations (Highlights)
-![Executive Summary](./images/executive-summary.png)
-![Conversion Funnel](./images/conversion-funnel.png)
-![Weekend Sales Spike](./images/weekend-sales.png)
-![Product Bundles](./images/bundles-table.png)
-
 ## Full Report
 Download the complete 23-page executive presentation:  
 [Sleep Oasis Data Analysis Report.pdf](./report/Sleep%20Oasis%20-%20E-Commerce%20Data%20Analysis%20(Oct-Nov%202025).pdf)
